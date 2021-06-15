@@ -1,0 +1,122 @@
+2021-06-11 23:17:06,791, INFO, test_registration, Registration page object initiation done
+2021-06-11 23:17:09,203, INFO, test_registration, Received firstname
+2021-06-11 23:17:09,329, INFO, test_registration, Received User email
+2021-06-11 23:17:09,735, INFO, test_registration, Form submitted successfully
+2021-06-11 23:17:10,025, INFO, test_registration, Registration page object initiation done
+2021-06-11 23:17:10,025, INFO, test_registration, Registration page object initiation done
+2021-06-11 23:17:10,546, INFO, test_registration, Received firstname
+2021-06-11 23:17:10,546, INFO, test_registration, Received firstname
+2021-06-11 23:17:10,673, INFO, test_registration, Received User email
+2021-06-11 23:17:10,673, INFO, test_registration, Received User email
+2021-06-11 23:17:11,114, INFO, test_registration, Form submitted successfully
+2021-06-11 23:17:11,114, INFO, test_registration, Form submitted successfully
+2021-06-11 23:42:23,006, INFO, test_registration, Registration page object initiation done
+2021-06-11 23:42:25,762, INFO, test_registration, Received firstnameBhavesh
+2021-06-11 23:42:25,935, INFO, test_registration, Received User emailbhavesh@mailinator.com
+2021-06-11 23:42:26,464, INFO, test_registration, Form submitted successfully
+2021-06-11 23:42:26,747, INFO, test_registration, Registration page object initiation done
+2021-06-11 23:42:26,747, INFO, test_registration, Registration page object initiation done
+2021-06-11 23:42:26,998, INFO, test_registration, Received firstnameHina
+2021-06-11 23:42:26,998, INFO, test_registration, Received firstnameHina
+2021-06-11 23:42:27,094, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-11 23:42:27,094, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-11 23:42:27,540, INFO, test_registration, Form submitted successfully
+2021-06-11 23:42:27,540, INFO, test_registration, Form submitted successfully
+2021-06-12 15:24:20,785, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:24:22,574, INFO, test_registration, Received firstnameBhavesh
+2021-06-12 15:24:22,892, INFO, test_registration, Received User emailbhavesh@mailinator.com
+2021-06-12 15:24:23,713, INFO, test_registration, Form submitted successfully
+2021-06-12 15:24:23,738, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:24:23,738, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:24:24,315, INFO, test_registration, Received firstnameHina
+2021-06-12 15:24:24,315, INFO, test_registration, Received firstnameHina
+2021-06-12 15:24:24,402, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 15:24:24,402, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 15:24:25,117, INFO, test_registration, Form submitted successfully
+2021-06-12 15:24:25,117, INFO, test_registration, Form submitted successfully
+2021-06-12 15:26:02,113, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:26:04,193, INFO, test_registration, Received firstnameBhavesh
+2021-06-12 15:26:04,370, INFO, test_registration, Received User emailbhavesh@mailinator.com
+2021-06-12 15:26:04,933, INFO, test_registration, Form submitted successfully
+2021-06-12 15:26:05,201, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:26:05,201, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:26:05,479, INFO, test_registration, Received firstnameHina
+2021-06-12 15:26:05,479, INFO, test_registration, Received firstnameHina
+2021-06-12 15:26:05,570, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 15:26:05,570, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 15:26:06,052, INFO, test_registration, Form submitted successfully
+2021-06-12 15:26:06,052, INFO, test_registration, Form submitted successfully
+2021-06-12 15:29:27,164, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:29:30,197, INFO, test_registration, Received firstnameBhavesh
+2021-06-12 15:29:30,307, INFO, test_registration, Received User emailbhavesh@mailinator.com
+2021-06-12 15:29:30,766, INFO, test_registration, Form submitted successfully
+2021-06-12 15:29:31,104, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:29:31,104, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:29:31,523, INFO, test_registration, Received firstnameHina
+2021-06-12 15:29:31,523, INFO, test_registration, Received firstnameHina
+2021-06-12 15:29:31,632, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 15:29:31,632, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 15:29:32,173, INFO, test_registration, Form submitted successfully
+2021-06-12 15:29:32,173, INFO, test_registration, Form submitted successfully
+2021-06-12 15:38:26,114, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:38:28,347, INFO, test_registration, Received firstnameBhavesh
+2021-06-12 15:38:28,453, INFO, test_registration, Received User emailbhavesh@mailinator.com
+2021-06-12 15:38:28,924, INFO, test_registration, Form submitted successfully
+2021-06-12 15:38:29,264, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:38:29,264, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:38:29,562, INFO, test_registration, Received firstnameHina
+2021-06-12 15:38:29,562, INFO, test_registration, Received firstnameHina
+2021-06-12 15:38:29,651, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 15:38:29,651, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 15:38:30,099, INFO, test_registration, Form submitted successfully
+2021-06-12 15:38:30,099, INFO, test_registration, Form submitted successfully
+2021-06-12 15:46:39,818, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:46:42,730, INFO, test_registration, Received firstnameBhavesh
+2021-06-12 15:46:42,953, INFO, test_registration, Received User emailbhavesh@mailinator.com
+2021-06-12 15:46:43,623, INFO, test_registration, Form submitted successfully
+2021-06-12 15:46:43,971, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:46:43,971, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:46:44,342, INFO, test_registration, Received firstnameHina
+2021-06-12 15:46:44,342, INFO, test_registration, Received firstnameHina
+2021-06-12 15:46:44,446, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 15:46:44,446, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 15:46:45,113, INFO, test_registration, Form submitted successfully
+2021-06-12 15:46:45,113, INFO, test_registration, Form submitted successfully
+2021-06-12 15:50:39,393, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:50:41,849, INFO, test_registration, Received firstnameBhavesh
+2021-06-12 15:50:42,080, INFO, test_registration, Received User emailbhavesh@mailinator.com
+2021-06-12 15:50:42,621, INFO, test_registration, Form submitted successfully
+2021-06-12 15:50:43,014, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:50:43,014, INFO, test_registration, Registration page object initiation done
+2021-06-12 15:50:43,296, INFO, test_registration, Received firstnameHina
+2021-06-12 15:50:43,296, INFO, test_registration, Received firstnameHina
+2021-06-12 15:50:43,545, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 15:50:43,545, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 15:50:43,964, INFO, test_registration, Form submitted successfully
+2021-06-12 15:50:43,964, INFO, test_registration, Form submitted successfully
+2021-06-12 23:36:05,220, INFO, test_registration, Registration page object initiation done
+2021-06-12 23:36:06,306, INFO, test_registration, Received firstnameBhavesh
+2021-06-12 23:36:06,517, INFO, test_registration, Received User emailbhavesh@mailinator.com
+2021-06-12 23:36:07,551, INFO, test_registration, Form submitted successfully
+2021-06-12 23:36:07,950, INFO, test_registration, Registration page object initiation done
+2021-06-12 23:36:07,950, INFO, test_registration, Registration page object initiation done
+2021-06-12 23:36:08,171, INFO, test_registration, Received firstnameHina
+2021-06-12 23:36:08,171, INFO, test_registration, Received firstnameHina
+2021-06-12 23:36:08,259, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 23:36:08,259, INFO, test_registration, Received User emailhina@gamil.com
+2021-06-12 23:36:08,707, INFO, test_registration, Form submitted successfully
+2021-06-12 23:36:08,707, INFO, test_registration, Form submitted successfully
+2021-06-14 12:16:19,525, INFO, test_registration, Registration page object initiation done
+2021-06-14 12:18:54,676, INFO, test_registration, Registration page object initiation done
+2021-06-14 12:27:21,024, INFO, test_registration, Registration page object initiation done
+2021-06-14 12:27:22,865, INFO, test_registration, Received firstnamehina
+2021-06-14 12:27:23,047, INFO, test_registration, Received User emailhina@mailinator.com
+2021-06-14 12:27:23,864, INFO, test_registration, Form submitted successfully
+2021-06-14 12:39:01,454, INFO, test_registration, Registration page object initiation done
+2021-06-14 12:39:05,024, INFO, test_registration, Received firstnamehina
+2021-06-14 12:39:05,206, INFO, test_registration, Received User emailhina@mailinator.com
+2021-06-14 12:39:05,775, INFO, test_registration, Form submitted successfully
+2021-06-14 12:39:31,256, INFO, test_registration, Registration page object initiation done
+2021-06-14 12:39:33,741, INFO, test_registration, Received firstnamehina
+2021-06-14 12:39:33,894, INFO, test_registration, Received User emailhina@mailinator.com
+2021-06-14 12:39:34,448, INFO, test_registration, Form submitted successfully
